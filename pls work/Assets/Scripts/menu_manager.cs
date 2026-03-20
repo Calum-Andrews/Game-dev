@@ -21,7 +21,7 @@ public class menu_manager : MonoBehaviour
 
     public void play_level_1()
     {
-        SceneManager.LoadScene("Level_1");
+        SceneManager.LoadScene("Level1");
     }
 
     public void end_game()

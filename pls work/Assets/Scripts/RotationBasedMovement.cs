@@ -207,7 +207,7 @@ public class RotationBasedMovement : MonoBehaviour
         }
         else
         {
-            Debug.Log("not touching");
+            //Debug.Log("not touching");
             is_touching_wall = false;
             wall_side = 0;
         }
