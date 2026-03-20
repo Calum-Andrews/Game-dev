@@ -5127,7 +5127,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Torch_in_radius
   torches_lit: 0
-  flames: {fileID: 0}
+  flames: {fileID: 2541410875395244186}
   audio_source_on_start: {fileID: 6501633591046635968}
   audio_source_ambient: {fileID: 7171074581569227025}
   player_in_range: {fileID: 0}
