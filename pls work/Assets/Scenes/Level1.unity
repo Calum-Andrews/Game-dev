@@ -119,6 +119,11 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!198 &115169496 stripped
+ParticleSystem:
+  m_CorrespondingSourceObject: {fileID: 2541410875395244186, guid: 5356d594ce724654da57c0f10e4fcadd, type: 3}
+  m_PrefabInstance: {fileID: 5516922906694147668}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &241515132
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -559,7 +564,7 @@ PrefabInstance:
     - target: {fileID: 1008226658810919859, guid: 5356d594ce724654da57c0f10e4fcadd, type: 3}
       propertyPath: flames
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 115169496}
     - target: {fileID: 1008226658810919859, guid: 5356d594ce724654da57c0f10e4fcadd, type: 3}
       propertyPath: player_in_range
       value: 
